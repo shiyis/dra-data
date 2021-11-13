@@ -1,10 +1,4 @@
-id,Economy,Country Code,Region,Income,OECD,Lending category,Other,GCC adjusted,Inclusion Criteria,UP (Unregistered Population),UP in % of Country Population,UP Male,UP Female,% of UP that is Female,Cut-off Age,UPA Total,UPA Male,UPA Female,% of UPA that is Female,UPB Total,UPB in % of Population above Cut-off,UPB Male,UPB Female ,% of UPB that is Female,BR Total
-%,BR Male
-%,BR Female
-%,BR Rural
-%,BR Urban
-%,RPB (Registered Population above Cut-off),RPB Source,RPB Male,RPB Female,Total Country Population,Population_A (below Cut-off Age),Population_A Male,Population_A  Female,Population_B 
-(above Cut-off Age),Population_B Male,Population_B Female,data_country,data_year
+id,Economy,Country Code,Region,Income,OECD,Lending category,Other,GCC adjusted,Inclusion Criteria,UP (Unregistered Population),UP in % of Country Population,UP Male,UP Female,% of UP that is Female,Cut-off Age,UPA Total,UPA Male,UPA Female,% of UPA that is Female,UPB Total,UPB in % of Population above Cut-off,UPB Male,UPB Female ,% of UPB that is Female,BR Total %,BR Male %,BR Female %,BR Rural %,BR Urban %,RPB (Registered Population above Cut-off),RPB Source,RPB Male,RPB Female,Total Country Population,Population_A (below Cut-off Age),Population_A Male,Population_A  Female,Population_B  (above Cut-off Age),Population_B Male,Population_B Female,data_country,data_year
 1,Afghanistan,AFG,SAS,LIC,,IDA,HIPC,,INCLUDE,"11,983,428",33,"5,349,909","6,631,580",55,18,"10,496,548","5,349,909","5,144,700",49,"1,486,880",8,0,"1,486,880",100,42.3,42.7,41.9,36,63.5,"20,845,988",Voter,"13,549,892","7,296,096","36,373,176","18,191,591","9,336,665","8,854,905","18,181,585","9,398,623","8,782,976",,
 2,Albania,ALB,ECS,UMC,,IBRD,,,INCLUDE,"7,565",0,"1,685","5,451",72,16,"7,565","1,685","5,451",72,0,0,0,0,0,98.6,99.4,97.9,98.4,99,"4,455,772",Direct,"2,267,673","2,188,099","2,934,363","540,349","280,793","259,561","2,394,014","1,199,481","1,194,510",,
 3,Algeria,DZA,MEA,UMC,,IBRD,,,INCLUDE,"4,737,130",11,n/a,n/a,n/a,18,"56,303","28,727","27,576",49,"4,680,827",17,n/a,n/a,n/a,99.6,99.6,99.6,99.5,99.7,"23,251,503",Voter,n/a,n/a,"42,008,054","14,075,724","7,181,719","6,894,010","27,932,330","14,033,462","13,898,865",,
